@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/classes-6498fd2d272dbc49210b2a56bf3f54f3d0e93dca.jar" />
+    </item>
+    <item
+        jar="/Users/redli/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-57a548a168d8f0d9b1e4d3eb097279d38bc15840.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-df806be8bb3aefdd3bdd2ae1aed5c80cb6ba0c68.jar" />
+    </item>
+    <item
+        jar="/Users/redli/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-aa55a3fa7742e85ce29ea57e85062661c8cd4cec.jar" />
+    </item>
+    <item
+        jar="/Users/redli/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-1ee37fcf38c83bbc41a61f2a92d685df947ea0d9.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/classes-108e16afbe52885dba76b7d805deeadab7a43636.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/classes-c3bbf513576be23c09565f0b15201e4271bf1450.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-50cbcbe062c9b07e8814f0f22671c15851ab19bf.jar" />
+    </item>
+    <item
+        jar="/Users/redli/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-c8bce03073ae456647798f6ba8d35b0d0fc5d004.jar" />
+    </item>
+    <item
+        jar="/Users/redli/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-2fa85c98291d67d97cd84096702a2ff82315b69b.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/classes-08d88625f52eff4e92670da6279332c76f78e048.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/classes-800b744fe42bca38dcfef1aceb3bb661d28278b7.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/classes-2002e33da0b894d26675b0335572b943abf9bf74.jar" />
+    </item>
+    <item
+        jar="/Users/redli/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0-4c19be8f1a592748a8dc5c19ba1dda71092d1dbe.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/classes-4c7bb3ee81d037f3d9d91ad182f05e6f82951d47.jar" />
+    </item>
+    <item
+        jar="/Users/redli/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-1febcf8bae64b4322df07991e9b9d0463b097086.jar" />
+    </item>
+    <item
+        jar="/Users/redli/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-45b191a2befdabf2b0506dc43a27fe095a779266.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/classes-8a97f3ccab06ec2426b1fffcd0d8bb7efe3e25e1.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/classes-8c5ee0b4ef0f8fb6022e850ca846aad5f2b66c3c.jar" />
+    </item>
+    <item
+        jar="/Users/redli/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-c8df6bade8f12b30623021986acb188c2f795219.jar" />
+    </item>
+    <item
+        jar="/Users/redli/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-a1acc51583b34eb8fb34bc5c442daa7e3878f4e9.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/classes-e9547f6956bd949546ccd6a45f81ff007ce82743.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/classes-d5c6d0abf613997a03a0d677b41baae2c2d7a694.jar" />
+    </item>
+    <item
+        jar="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/redli/ReactNativeProjects/ReduxSimple/android/app/build/intermediates/pre-dexed/debug/classes-91d9574f9e73253b0af90ae027dafb9a6b704820.jar" />
+    </item>
+
+</items>
