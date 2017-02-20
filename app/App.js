@@ -8,8 +8,8 @@ import {
     View
 } from 'react-native';
 
-import CounterContainer from './containers/CounterContainer';
-import MoviesContainer from './containers/MoviesContainer';
+import CounterContainer from './containers/CounterContainer'; //官方计数器
+import MoviesContainer from './containers/MoviesContainer'; //网络请求
 import * as reducers from './reducers';
 const createStoreWithMiddleware = applyMiddleware(thunk)(createStore);
 const reducer = combineReducers(reducers);
@@ -21,6 +21,7 @@ let App = () => {
     return(
         <Provider store={store}>
             <MoviesContainer />
+            {/*<CounterContainer />*/}
         </Provider>
     )
 }
